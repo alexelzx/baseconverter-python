@@ -1,5 +1,6 @@
 # baseconverter-python
 A simple, Python based, Base Converter. Convert any number into Decimal, Binary, Octal or Hexadecimal writing, just with a few clicks.
+This open-source converter is licensed under the Apache 2.0 License. While the interface is currently in French, you can easily modify the code to display text in any language.
 
 Below, a screenshot of this code working:
 
