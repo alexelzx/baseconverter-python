@@ -6,3 +6,5 @@ Below, a screenshot of this code working:
 
 ![image](https://github.com/alexelzx/baseconverter-python/assets/86853540/9034c46b-7aae-4526-bd25-1034da7c05c4)
 
+# Usage
+You will need to download the .py file and execute it on a Python emulator, or, you can use Google Collaboratory ([https://colab.research.google.com/](url)) to test the code.
